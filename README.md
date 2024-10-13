@@ -1,0 +1,1 @@
+This repo contains code for FetchBench (https://arxiv.org/abs/2406.11793) imitation learning baseline implementations. The code is adapted from Optimus (https://github.com/NVlabs/Optimus) under Nvidia License.
